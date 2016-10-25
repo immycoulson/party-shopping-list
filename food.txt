@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+<h1>Food</h2>
+=======
+<h1>Food</h1>
+<p>percy pigs!</p>
+>>>>>>> origin/master
